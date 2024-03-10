@@ -2,6 +2,8 @@
 
 This project aims to demonstrate how to interact with the filesystem in a Node.js environment. The primary functionality includes taking user input through a form and using a POST request to write the captured data into a JSON file.
 
+-- Added delete API (submit the name of the json file that you want to delete and hit the delete button.)
+
 ## Getting Started
 
 To run this project locally, follow these steps:
